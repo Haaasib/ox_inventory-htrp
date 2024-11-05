@@ -1,4 +1,5 @@
 # ox_inventory
+![Capture](https://github.com/user-attachments/assets/5479556a-52d1-4684-b7d7-061c3948f1d2)
 
 A complete inventory system for FiveM, implementing items, weapons, shops, and more without any strict framework dependency.
 
